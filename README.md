@@ -9,6 +9,7 @@ TechEats
 
 **📑Deskripsi Proyek:**  
 TechEats Inovasi Layanan Pemesanan Makanan Sebagai Solusi Alternatif di Kantin Teknik Universitas Pancasila
+TechEats adalah aplikasi pemesanan makanan berbasis digital yang memudahkan pengguna memesan menu di Kantin Teknik Universitas Pancasila tanpa harus mengantri. Aplikasi ini memungkinkan pengguna melihat menu, memilih pembayaran, serta mengetahui jam tutup kantin. Selain itu, TechEats juga membantu penjual mengelola pesanan agar lebih cepat, rapi, dan efisien.
 
 **🦒Anggota Kelompok 08:**
 - Alifian Revan Arnanta (4524210010)
