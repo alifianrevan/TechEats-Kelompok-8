@@ -41,12 +41,16 @@ TechEats adalah aplikasi pemesanan makanan berbasis digital yang memudahkan peng
 --> Pengguna melihat daftar menu yang tersedia di dalam sistem.
 
 **Use Case 05 - Memesan menu**
+--> Pembeli memilih dan mengonfirmasi menu yang ingin dipesan, kemudian sistem mencatat pesanan untuk diproses oleh penjual.
 
 **Use Case 06 - Membayar**
+--> Pembeli melakukan pembayaran sesuai total pesanan menggunakan metode yang tersedia, lalu status pesanan diperbarui.
 
 **Use Case 07 - Update menu**
+--> Penjual memperbarui informasi menu seperti harga, deskripsi, atau ketersediaan.
 
 **Use Case 08 - Riwayat pesanan**
+--> Pembeli melihat daftar pesanan yang pernah dilakukan sebelumnya.
 
 ---
 
