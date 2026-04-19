@@ -28,12 +28,19 @@ TechEats adalah aplikasi pemesanan makanan berbasis digital yang memudahkan peng
 **Actor 03 - SuperUser**
 
 **Use Case 01 - Registrasi**
+
 **Use Case 02 - Login**
+
 **Use Case 03 - Membuat menu**
+
 **Use Case 04 - Melihat Menu**
+
 **Use Case 05 - Memesan menu**
+
 **Use Case 06 - Membayar**
+
 **Use Case 07 - Update menu**
+
 **Use Case 08 - Riwayat pesanan**
 
 ---
