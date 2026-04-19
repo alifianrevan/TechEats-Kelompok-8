@@ -23,10 +23,10 @@ TechEats adalah aplikasi pemesanan makanan berbasis digital yang memudahkan peng
 <img width="573" height="224" alt="image" src="https://github.com/user-attachments/assets/c843ccb8-3694-46b2-bd70-7dca8d9ec80c" />
 
 **Actor 01 - Penjual**
+--> Sistem yang mudah digunakan untuk menerima pesanan dan informasi pesanan yang jelas dan terorganisir (kesulitan mengelola pesanan saat ramai, kesulitan menemukan informasi keberadaan mahasiswa duduk di mana untuk mengantarkan makanan).
 
 **Actor 02 - Pembeli**
-
-**Actor 03 - SuperUser**
+--> Ingin terdapat sistem informasi menu kantin yang lengkap dan update serta proses pemesanan yang mudah dan efisien tanpa mengantri lama (sering terlambat ke kelas karena antrian).
 
 **Use Case 01 - Registrasi**
 
