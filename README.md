@@ -57,7 +57,7 @@ TechEats adalah aplikasi pemesanan makanan berbasis digital yang memudahkan peng
 ## 📌 WORKFLOW!! 
 1. *git clone* (Clone repo ke local)
 2. *git checkout -b NAMAKALIAN* (Membuat branch dengan nama sendiri)
-3. *git checout branch_tujuan* (Pindah branch kalian atau kalo ke main repo berarti checkout main)
+3. *git checkout branch_tujuan* (Pindah branch kalian atau kalo ke main repo berarti checkout main)
 4. *git add .* (menambah yang ingin dicommit)
 5. *git commit -m "fiks"* (commit yang ingin dipush)
 6. *git push -u origin BRANCHKALIAN* (push ke BRANCH KALIAN, JANGAN KE MAIN!!)
