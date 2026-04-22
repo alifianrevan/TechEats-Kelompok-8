@@ -8,7 +8,7 @@ Dosen: Adi Wahyu Pribadi, S.T M.T
 TechEats
 
 **📑 Deskripsi Proyek:**  
-TechEats adalah aplikasi pemesanan makanan berbasis digital yang memudahkan pengguna memesan menu di Kantin Teknik Universitas Pancasila  yang mampu mempercepat proses pemesanan makanan dan meminimalisir antrian, sekaligus memberikan kenyamanan dan kemudahan bagi pengguna. Aplikasi ini memungkinkan pengguna melihat menu, memilih pembayaran, serta mengetahui jam tutup kantin. Selain itu, TechEats juga membantu penjual mengelola pesanan agar lebih cepat, rapi, dan efisien.
+TeknikEats adalah aplikasi pemesanan makanan berbasis digital yang memudahkan pengguna memesan menu di Kantin Teknik Universitas Pancasila yang mampu mempercepat proses pemesanan makanan dan meminimalisir antrian, sekaligus memberikan kenyamanan dan kemudahan bagi pengguna. Aplikasi ini memungkinkan pengguna melihat menu, memilih pembayaran, serta mengetahui jam tutup kantin. Selain itu, TeknikEats juga membantu penjual mengelola pesanan agar lebih cepat dan rapi.
 
 **🦒 Anggota Kelompok 08:**
 - Alifian Revan Arnanta (4524210010)
