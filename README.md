@@ -1,5 +1,5 @@
 # Tugas Analisis Perancangan Berorientasi Objek - A
-Dosen: Adi Wahyu Pribadi, S.T M.T
+Dosen: Adi Wahyu Pribadi, S.Si., M.Kom
 
 ---
 ## ✨ Identitas Proyek
