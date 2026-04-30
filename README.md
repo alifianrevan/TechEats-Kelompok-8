@@ -49,9 +49,15 @@ TeknikEats adalah aplikasi pemesanan makanan berbasis digital yang memudahkan pe
 **Use Case 07 - Update menu**
 --> Penjual memperbarui informasi menu seperti harga, deskripsi, atau ketersediaan.
 
-**Use Case 08 - Riwayat pesanan**
+**Use Case 08 - Proses pesanan**
+--> Penjual menerima pesanan yang masuk dari pembeli
+
+**Use Case 09 - Riwayat pesanan**
 --> Pembeli melihat daftar pesanan yang pernah dilakukan sebelumnya.
 
+**Use Case 10 - Notifikasi**
+--> Melihat pesanan yang diterima -> pembeli
+--> Menerima pesanan yang masuk -> penjual
 ---
 
 ## 📌 WORKFLOW!! 

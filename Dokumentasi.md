@@ -1,1 +1,1 @@
-Link Gdrive: https://github.com/alifianrevan/TeknikEats-Kelompok-8.git
+Link Gdrive: https://drive.google.com/drive/folders/1oYQl0EjFRwGjS_XRlsin8OrWMpYenTQ0?usp=sharing
