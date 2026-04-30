@@ -58,6 +58,7 @@ TeknikEats adalah aplikasi pemesanan makanan berbasis digital yang memudahkan pe
 **Use Case 10 - Notifikasi**
 --> Melihat pesanan yang diterima -> pembeli.
 --> Menerima pesanan yang masuk -> penjual.
+
 ---
 
 ## 📌 WORKFLOW!! 
