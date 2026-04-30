@@ -1,1 +1,1 @@
-Link Gdrive: https://drive.google.com/drive/folders/1oYQl0EjFRwGjS_XRlsin8OrWMpYenTQ0?usp=sharing
+Link Video Youtube: https://youtu.be/ydWAreNf-Wk?si=931hkNcDgkR2EjUM
