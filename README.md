@@ -2,15 +2,15 @@
 Dosen: Adi Wahyu Pribadi, S.Si., M.Kom
 
 ---
-## ✨ Identitas Proyek
+## Identitas Proyek
 
-**🍝 Nama Proyek:**  
+**Nama Proyek:**  
 TeknikEats
 
-**📑 Deskripsi Proyek:**  
+**Deskripsi Proyek:**  
 TeknikEats adalah aplikasi pemesanan makanan berbasis digital yang memudahkan pengguna memesan menu di Kantin Teknik Universitas Pancasila yang mampu mempercepat proses pemesanan makanan dan meminimalisir antrian, sekaligus memberikan kenyamanan dan kemudahan bagi pengguna. Aplikasi ini memungkinkan pengguna melihat menu, memilih pembayaran, serta mengetahui jam tutup kantin. Selain itu, TeknikEats juga membantu penjual mengelola pesanan agar lebih cepat dan rapi.
 
-**🦒 Anggota Kelompok 08:**
+**Anggota Kelompok 08:**
 - Alifian Revan Arnanta (4524210010)
 - Aryan Fathir Asq Gunawan (4524210016)
 - Herlyana Ferdiani (4524210042)
@@ -19,7 +19,7 @@ TeknikEats adalah aplikasi pemesanan makanan berbasis digital yang memudahkan pe
 
 ---
 
-## 🙋‍♀️ Analisis Kebutuhan Pengguna (Use Case)
+## Analisis Kebutuhan Pengguna (Use Case)
 <img width="573" height="224" alt="image" src="https://github.com/user-attachments/assets/c843ccb8-3694-46b2-bd70-7dca8d9ec80c" />
 
 **Actor 01 - Penjual**
@@ -61,7 +61,7 @@ TeknikEats adalah aplikasi pemesanan makanan berbasis digital yang memudahkan pe
 
 ---
 
-## 📌 WORKFLOW!! 
+## WORKFLOW!! 
 1. *git clone* (Clone repo ke local)
 2. *git checkout -b NAMAKALIAN* (Membuat branch dengan nama sendiri)
 3. *git checkout branch_tujuan* (Pindah branch kalian atau kalo ke main repo berarti checkout main)
@@ -73,6 +73,6 @@ TeknikEats adalah aplikasi pemesanan makanan berbasis digital yang memudahkan pe
 
 ---
 
-## 🙏 PENUTUP
+## PENUTUP
 
 ---
